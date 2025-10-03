@@ -1,7 +1,4 @@
 # same-ip-guardian
-Verify that your phone and PC use the exact same public IP. One tap/one command sanity check for proxy/VPN setups. JSON report, leak hints, shareable badge.
-Title + Badges
-# same-ip-guardian
 [![CI](https://github.com/<YOU>/same-ip-guardian/actions/workflows/ci.yml/badge.svg)](…)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
